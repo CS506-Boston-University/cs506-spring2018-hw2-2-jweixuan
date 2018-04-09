@@ -1,0 +1,22 @@
+Q1, 4 points total
+
+Parse data to extract reviews, latitude and longitude for businesses; 1/1
+Create document-term matrix; 1/1
+Use some method to find an appropriate number of singular vectors; 1/1
+Apply 3 times PCA on document-term structure for k=10,100,1000; 1/1
+
+
+Q2, 4 points total
+Inputs to clustering techniques is based on the output of SVD; 0.5/0.5
+Inputs to clustering technique also contain lat+lon as features; 0.5/0.5
+Cluster data using kmeans, hierarchical and gmm; 1/1
+All clusterings for k=10,100,1000 in total 9 clusterings and plots: 1/1
+Clusters have little overlap (in general); 0.5/0.5
+Clusters/Plots are labeled with meaningful terms (in general); 0.5/0.5
+
+
+Q3, 2 points total
+Interpretation of how the value of k affacts the result; 1/1
+General comments additional to k values; 1/1
+
+Total: 10/10
